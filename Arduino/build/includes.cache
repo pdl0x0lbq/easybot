@@ -1,0 +1,172 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\variants\\esp32"
+  },
+  {
+    "Sourcefile": "f:\\Desktop\\espa\\Arduino\\build\\sketch\\control.cpp.cpp",
+    "Include": "Ticker.h",
+    "Includepath": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\Ticker\\src"
+  },
+  {
+    "Sourcefile": "f:\\Desktop\\espa\\Arduino\\build\\sketch\\control.cpp.cpp",
+    "Include": "micro_ros_arduino.h",
+    "Includepath": "C:\\Users\\s1003\\Documents\\Arduino\\libraries\\micro_ros_arduino-2.0.5-humble\\src"
+  },
+  {
+    "Sourcefile": "f:\\Desktop\\espa\\Arduino\\build\\sketch\\control.cpp.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\WiFi\\src"
+  },
+  {
+    "Sourcefile": "f:\\Desktop\\espa\\Arduino\\build\\sketch\\control.cpp.cpp",
+    "Include": "PID_v2.h",
+    "Includepath": "C:\\Users\\s1003\\Documents\\Arduino\\libraries\\PID_v2"
+  },
+  {
+    "Sourcefile": "f:\\Desktop\\espa\\Arduino\\build\\sketch\\control.cpp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "f:\\Desktop\\espa\\Arduino\\build\\sketch\\imu.cpp",
+    "Include": "I2Cdev.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\I2Cdev"
+  },
+  {
+    "Sourcefile": "f:\\Desktop\\espa\\Arduino\\build\\sketch\\imu.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "f:\\Desktop\\espa\\Arduino\\build\\sketch\\imu.cpp",
+    "Include": "MPU6050_6Axis_MotionApps612.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\MPU6050"
+  },
+  {
+    "Sourcefile": "f:\\Desktop\\espa\\Arduino\\build\\sketch\\imu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "f:\\Desktop\\espa\\Arduino\\build\\sketch\\micro_ros.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "f:\\Desktop\\espa\\Arduino\\build\\sketch\\odom.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "f:\\Desktop\\espa\\Arduino\\build\\sketch\\pid.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\Ticker\\src\\Ticker.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\Documents\\Arduino\\libraries\\micro_ros_arduino-2.0.5-humble\\src\\default_transport.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\Documents\\Arduino\\libraries\\micro_ros_arduino-2.0.5-humble\\src\\native_ethernet_transport.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\Documents\\Arduino\\libraries\\micro_ros_arduino-2.0.5-humble\\src\\wifi_transport.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\WiFi\\src\\WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\WiFi\\src\\WiFiAP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\WiFi\\src\\WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\WiFi\\src\\WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\WiFi\\src\\WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\WiFi\\src\\WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\WiFi\\src\\WiFiScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\WiFi\\src\\WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\WiFi\\src\\WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\Documents\\Arduino\\libraries\\PID_v2\\PID_v2.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\I2Cdev\\I2Cdev.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\s1003\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\MPU6050\\MPU6050.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\MPU6050\\MPU6050_6Axis_MotionApps20.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\MPU6050\\MPU6050_6Axis_MotionApps612.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\MPU6050\\MPU6050_9Axis_MotionApps41.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
